@@ -2,11 +2,7 @@
 
 Maqueta de Casa Domótica Educativa en construcció <img src="Imatges/UnderConstruction.png" width="50" />
 
-<img src="Imatges/Parc.png" width="400" />
-
-Casa Domòtica
-
-<img src="Imatges/MVIMG_20220114_194909_492.jpg" width="400" /> <img src="Imatges/IMG_20200816_234822_996.jpg" width="400" />
+<img src="Imatges/CasaModel_1x1Final.png" width="400" />
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
