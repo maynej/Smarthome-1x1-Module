@@ -16,10 +16,13 @@ STL per imprimir [aquí](https://github.com/maynej/Smart-1x1-Module/tree/main/ST
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Parets |![](Imatges/Parets.png) | [Parets](STL_SMARTHOME/Casa/Parets)
-Finestres |![](Imatges/Finestres.png) | [Finestres](STL_SMARTHOME/Casa/Finestres)
-Portes |![](Imatges/Porta.png) | [Portes](STL_SMARTHOME/Casa/Portes)
-Teulades |![](Imatges/Frontal.png) ![](Imatges/Trassera.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
+Parets |![](Imatges/Parets.png) | [Parets](STL/Parets)
+Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
+Porta |![](Imatges/Porta.png) | [Portes](STL_SMARTHOME/Casa/Porta)
+Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
+CPU |![](Imatges/CPU.png) | [Teulada](STL)
+Polsadors |![](Imatges/Polsadors.png) | [Teulada](STL)
+RFID |![](Imatges/RFID.png) | [Teulada](STL)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
