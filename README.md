@@ -8,19 +8,23 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 L'objectiu es construir una casa modular abstreta del projecte del Parc mediambiental educatiu on permet provar diferents tecnologies de control aplicant la domòtica, gestionant el medi ambient i mesurant paràmetres de la natura.
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-1x1-Module/tree/DOC). També en llengua castellana.
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smarthome-1x1-Module/tree/main/DOC). També en llengua castellana.
 
-STL per imprimir [aquí](https://github.com/maynej/Smart-1x1-Module/tree/main/STL_SMARTHOME).
+STL per imprimir [aquí] (https://github.com/maynej/Smarthome-1x1-Module/tree/main/STL).
 
 ## Casa 3D 
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Parets |![](Imatges/Parets.png) | [Parets](STL_SMARTHOME/Casa/Parets)
-Finestres |![](Imatges/Finestres.png) | [Finestres](STL_SMARTHOME/Casa/Finestres)
-Portes |![](Imatges/Porta.png) | [Portes](STL_SMARTHOME/Casa/Portes)
-Teulades |![](Imatges/Frontal.png) ![](Imatges/Trassera.png) | [Teulades](STL_SMARTHOME/Casa/Teulada)
+Parets |![](Imatges/Parets.png) | [Parets](STL/Parets)
+Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
+Porta |![](Imatges/Porta.png) | [Portes](STL_SMARTHOME/Casa/Porta)
+Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
+CPU |![](Imatges/CPU.png) | [Teulada](STL)
+Polsadors |![](Imatges/Polsadors.png) | [Teulada](STL)
+RFID |![](Imatges/RFID.png) | [Teulada](STL)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
+<img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fgithub.com%2Fmaynej%2FSmarthome-1x1-Module&s=6&e=m" alt="QR Code generator"/>
