@@ -8,9 +8,9 @@ Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Stud
 
 L'objectiu es construir una casa modular abstreta del projecte del Parc mediambiental educatiu on permet provar diferents tecnologies de control aplicant la domòtica, gestionant el medi ambient i mesurant paràmetres de la natura.
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smart-1x1-Module/tree/DOC). També en llengua castellana.
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Smarthome-1x1-Module/tree/main/DOC). També en llengua castellana.
 
-STL per imprimir [aquí](https://github.com/maynej/Smart-1x1-Module/tree/main/STL_SMARTHOME).
+STL per imprimir [aquí] (https://github.com/maynej/Smarthome-1x1-Module/tree/main/STL).
 
 ## Casa 3D 
   
