@@ -18,7 +18,7 @@ Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Parets |![](Imatges/Parets.png) | [Parets](STL/Parets)
 Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
-Porta |![](Imatges/Porta.png) | [Porta](STL_SMARTHOME/Casa/Porta)
+Porta |![](Imatges/Porta.png) | [Porta](STL/Porta)
 Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
 Capsa Control |![](Imatges/CPU.png) | [CPU](STL)
 Suport Sensors |![](Imatges/Polsadors.png) | [Polsadors](STL/Polsadors.stl)
