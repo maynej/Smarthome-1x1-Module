@@ -21,7 +21,7 @@ Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
 Porta |![](Imatges/Porta.png) | [Porta](STL_SMARTHOME/Casa/Porta)
 Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
 Capsa Control |![](Imatges/CPU.png) | [CPU](STL)
-Suport Polsadors |![](Imatges/Polsadors.png) | [Polsadors](STL/Polsadors.stl)
+Suport Sensors |![](Imatges/Polsadors.png) | [Polsadors](STL/Polsadors.stl)
 Suport Tàctils |![](Imatges/Touch.png) | [Tàctils](STL/TeclatTouch.stl)
 Suport RFID |![](Imatges/RFID.png) | [RFID](STL/BaseRFID.stl)
 
