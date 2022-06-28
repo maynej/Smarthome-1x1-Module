@@ -18,11 +18,12 @@ Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Parets |![](Imatges/Parets.png) | [Parets](STL/Parets)
 Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
-Porta |![](Imatges/Porta.png) | [Porta](STL_SMARTHOME/Casa/Porta)
+Porta |![](Imatges/Porta.png) | [Porta](STL/Porta)
 Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
-CPU |![](Imatges/CPU.png) | [CPU](STL)
-Polsadors |![](Imatges/Polsadors.png) | [Polsadors](STL)
-RFID |![](Imatges/RFID.png) | [RFID](STL)
+Capsa Control |![](Imatges/CPU.png) | [CPU](STL)
+Suport Sensors |![](Imatges/Polsadors.png) | [Polsadors](STL/Polsadors.stl)
+Suport Tàctils |![](Imatges/Touch.png) | [Tàctils](STL/TeclatTouch.stl)
+Suport RFID |![](Imatges/RFID.png) | [RFID](STL/BaseRFID.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
