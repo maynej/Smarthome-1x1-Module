@@ -22,7 +22,7 @@ Porta |![](Imatges/Porta.png) | [Porta](STL_SMARTHOME/Casa/Porta)
 Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
 CPU |![](Imatges/CPU.png) | [CPU](STL)
 Suport Polsadors |![](Imatges/Polsadors.png) | [Polsadors](STL)
-Suport Tàctils |![](Imatges/Touch.png) | [Tàctils](STL)
+Suport Tàctils |![](Imatges/Touch.png) | [Tàctils](STL/TeclatTouch.stl)
 Suport RFID |![](Imatges/RFID.png) | [RFID](STL)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
