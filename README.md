@@ -21,21 +21,22 @@ Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
 Porta |![](Imatges/Porta.png) | [Porta](STL/Porta)
 Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
 Capsa Control |![](Imatges/CapsaCPU.png) | [Capsa CPU](STL/CPU)
-Suport 1 forat |![](Imatges/Suport1forat.jpg) | [Suport 1 forat](STL/Suport1forat.stl)
-Suport Inclinat 1 forat |![](Imatges/SuportInclinat1forat.jpg) | [Suport Inclinat 1 forat](STL/SuportInclinat1forat.stl)
-Suport 2 forats |![](Imatges/Suport2forats.jpg) | [Suport 2 forats](STL/Suport2forats.stl)
-Suport RFID |![](Imatges/SuportRFID.jpg) | [RFID](STL/SuportRFID.stl)
+Suport 1 forat |![](Imatges/Suport1forat.jpg) | [Suport 1 forat](STL/SuportsModuls/Suport1forat.stl)
+Suport Inclinat 1 forat |![](Imatges/SuportInclinat1forat.jpg) | [Suport Inclinat 1 forat](STL/SuportsModuls/SuportInclinat1forat.stl)
+Suport 2 forats |![](Imatges/Suport2forats.jpg) | [Suport 2 forats](STL/SuportsModuls/Suport2forats.stl)
+Suport RFID |![](Imatges/SuportRFID.jpg) | [RFID](STL/SuportsModuls/SuportRFID.stl)
 
 ## Base de fusta  
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Base fusta |![](Imatges/Base.png | [Base fusta](STL/Base)
+Base fusta |![](Imatges/Base.png) | [Base fusta](Base/)
+
 
 ## Parets sólides
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Parets |![](Imatges/ParetBase_Mascle_Femella.png) | [Parets](STL/Parets)
+Parets |![](Imatges/ParetBase_Mascle_Femella.png) | [Parets](STL/Parets/ParetsSolidesOpcionals)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
