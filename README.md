@@ -32,7 +32,6 @@ Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Base fusta |![](Imatges/Base.png) | [Base fusta](Base/)
 
-Base fusta |![](Imatges/Base.png | [Base fusta](STL/Base)
 
 ## Parets sólides
 Descripció         | Imatge          | Arxiu         
