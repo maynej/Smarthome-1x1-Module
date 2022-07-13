@@ -21,9 +21,10 @@ Finestres |![](Imatges/Finestres.png) | [Finestres](STL/Finestres)
 Porta |![](Imatges/Porta.png) | [Porta](STL/Porta)
 Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
 Capsa Control |![](Imatges/CPU.png) | [CPU](STL/CPU)
-Suport Sensors |![](Imatges/Polsadors.png) | [Polsadors](STL/Polsadors.stl)
-Suport Tàctils |![](Imatges/Touch.png) | [Tàctils](STL/TeclatTouch.stl)
-Suport RFID |![](Imatges/RFID.png) | [RFID](STL/BaseRFID.stl)
+Suport 1 forat |![](Imatges/Suport1forat.jpg) | [Suport 1 forat](STL/Suport1forat.stl)
+Suport Inclinat 1 forat |![](Imatges/SuportInclinat1forat.jpg) | [Suport Inclinat 1 forat](STL/SuportInclinat1forat.stl)
+Suport 2 forats |![](Imatges/Suport2forats.jpg) | [Suport 2 forats](STL/Suport2forats.stl)
+Suport RFID |![](Imatges/SuportRFID.jpg) | [RFID](STL/SuportRFID.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
