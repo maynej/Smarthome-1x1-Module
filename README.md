@@ -23,7 +23,7 @@ Teulada |![](Imatges/Teulada.png) | [Teulada](STL/Teulada)
 Capsa Control |![](Imatges/CapsaCPU.png) | [Capsa CPU](STL/CPU)
 Suport 1 forat |![](Imatges/Suport1forat.jpg) | [Suport 1 forat](STL/SuportsModuls/Suport1forat.stl)
 Suport Inclinat 1 forat |![](Imatges/SuportInclinat1forat.jpg) | [Suport Inclinat 1 forat](STL/SuportsModuls/SuportInclinat1forat.stl)
-Suport 2 forats |![](Imatges/Suport2forats.jpg) | [Suport 2 forats](STL/SuportsModuls/Suport2forats.stl)
+Suport 2 forats |![](Imatges/Suport2forats.jpg) | [Suport 2 forats](STL/SuportsModuls/Suport 2forats.stl)
 Suport RFID |![](Imatges/SuportRFID.jpg) | [RFID](STL/SuportsModuls/SuportRFID.stl)
 
 ## Base de fusta  
