@@ -26,6 +26,17 @@ Suport Inclinat 1 forat |![](Imatges/SuportInclinat1forat.jpg) | [Suport Inclina
 Suport 2 forats |![](Imatges/Suport2forats.jpg) | [Suport 2 forats](STL/Suport2forats.stl)
 Suport RFID |![](Imatges/SuportRFID.jpg) | [RFID](STL/SuportRFID.stl)
 
+## Base de fusta  
+  
+Descripció         | Imatge          | Arxiu         
+------------- | ------------- | ------------- 
+Base fusta |![](Imatges/Base.png | [Base fusta](STL/Base)
+
+## Parets sólides
+Descripció         | Imatge          | Arxiu         
+------------- | ------------- | ------------- 
+Parets |![](Imatges/ParetBase_Mascle_Femella.png) | [Parets](STL/Parets)
+
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
