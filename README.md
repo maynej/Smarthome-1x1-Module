@@ -30,7 +30,7 @@ Suport RFID |![](Imatges/SuportRFID.jpg) | [RFID](STL/SuportRFID.stl)
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Base fusta |![](Imatges/BaseFusta.png | [Base fusta](STL/Base)
+Base fusta |![](Imatges/Base.png | [Base fusta](STL/Base)
 
 ## Parets sólides
 Descripció         | Imatge          | Arxiu         
